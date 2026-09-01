@@ -1,4 +1,4 @@
-#Developer AI Trust Analysis
+**Developer AI Trust Analysis**
 
 Analysis of the 2024 Stack Overflow Developer Survey examining how trust in AI accuracy and reported company security-policy gaps relate to AI use in code review, commits, deployment, and monitoring.
 
